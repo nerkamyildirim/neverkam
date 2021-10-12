@@ -8,6 +8,6 @@
 - 👯 I’m looking to collaborate on my upcoming Data Science projects
 - 🤔 I’m looking for help with fundamentals of **Machine Learning / Artificial Intelligence**
 - 💬 Ask me about descriptive / predictive data analysis
-- 📫 How to reach me: Try my [**LinkedIn**](https://www.linkedin.com/in/nev-erkam-yildirim-a26b56117/) profile, and learn a bit more about me there.
+- 📫 How to reach me: Try my [**LinkedIn**](https://www.linkedin.com/in/nev-erkam-yildirim-a26b56117/) profile, and learn a bit more about me there
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Lead vocalist of my high school band
