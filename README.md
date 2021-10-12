@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi and welcome, here's a little bit about me 👋
 
-<!--
-**neverkam/neverkam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 I’m currently working on Data Science with **Python**
+- 🌱 I’m currently learning ins and outs of **'pandas'**
+- 👯 I’m looking to collaborate on my upcoming Data Science projects
+- 🤔 I’m looking for help with fundamentals of **Machine Learning / Artificial Intelligence**
+- 💬 Ask me about descriptive / predictive data analysis
+- 📫 How to reach me: Try my [**LinkedIn**](https://www.linkedin.com/in/nev-erkam-yildirim-a26b56117/) profile, and learn a bit more about me there.
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Lead vocalist of my high school band
