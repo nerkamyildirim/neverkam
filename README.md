@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on DataCamp Data Science with **Python**
+- 🔭 I’m currently working on **DataCamp**, Data Science with **Python**
 - 🌱 I’m currently learning ins and outs of **'pandas'**
 - 👯 I’m looking to collaborate on my upcoming Data Science projects
 - 🤔 I’m looking for help with fundamentals of **Machine Learning / Artificial Intelligence**
