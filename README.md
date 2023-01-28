@@ -7,4 +7,4 @@
 - 💬 Ask me about data visualisation
 - 📫 How to reach me: Try my [**LinkedIn**](https://www.linkedin.com/in/nev-erkam-yildirim-a26b56117/) profile, and learn a bit more about me there
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Lead vocalist of my high school band
+- ⚡ Fun fact: Vocalist of my high school band
